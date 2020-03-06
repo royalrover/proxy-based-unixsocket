@@ -1,4 +1,4 @@
-# 一种基于unix socket的协议的node.js 代理服务（支持websocket）
+# 一种基于unix socket的协议的node.js 代理服务(支持websocket)
 
 ```
 node server.js
