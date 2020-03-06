@@ -1,0 +1,17 @@
+{
+  "name": "proxy-based-unixsocket",
+  "version": "1.0.0",
+  "description": "proxy based unix socket, supporting websocket protocol",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "socket.io": "^1.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phusion/passenger-nodejs-websocket-demo.git"
+  },
+  "author": "royalrover",
+  "license": "MIT"
+}
